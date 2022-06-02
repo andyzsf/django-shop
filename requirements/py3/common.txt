@@ -30,7 +30,7 @@ djangorestframework==3.2.5
 drf-haystack==1.5.6
 easy-thumbnails==2.3
 elasticsearch==1.7.0
-html5lib==0.9999999
+html5lib==0.99999999
 jsonfield==1.0.3
 libsass==0.8.3
 oauthlib==1.0.3
